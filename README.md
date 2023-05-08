@@ -1,1 +1,3 @@
-# Methods-for-solving-game-strategy-problems
+<h1 align="center">Всем привет. Тут методы по решению задач на стратегию игры</a> 
+
+
